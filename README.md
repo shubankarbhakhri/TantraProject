@@ -6,7 +6,7 @@ This project performs the following task:
 
 1.The project convert Speech to text. 
 
-2.The user can speak and open application of their phone like - Whatsapp, Camera, Instagram, Snapchat or Facebook.
+2.The user can speak and open application of their phone like - Whatsapp, Camera, Instagram, Snapchat and Facebook.
 
 Learning Objectives, Aim, Purpose, Abstract:
 
